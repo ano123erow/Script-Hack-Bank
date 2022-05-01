@@ -22,15 +22,15 @@ echo "Gmail :mastergc64@gmail.com"
 echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 
-echo ="Pilih Nama Bank Kalian:BCA,BRI,BNI"
+echo ="Pilih Nama Bank Kalian:Boc ceylon"
 read p;
 sleep 1
 sleep 2
 sleep 3
-echo ="Masukkan Nama Anda";
+echo ="kumarakuruparan umashankar";
 read p;
 sleep 1
-echo ="Masukkan No Rek Anda"
+echo ="0087940319"
 read p;
 sleep 1
 sleep 2
